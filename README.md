@@ -4,7 +4,7 @@
 **elvias9/elvias9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-I am a *web developer*, a linguist and a translator.  What do these things have in common? Languages as structured systems of communication. 
+I am a *developer*, a linguist and a translator.  What do these things have in common? Languages as structured systems of communication. 
 As a developer, Javascript is my main language, but I’m learning Python as well. 
 I currently work as a Cloud System Developer, migrating workloads from traditional datacenters to the cloud. I work primarily with AWS and GCP cloud providers.
 I decided to move the first steps into the ’tech’ world because I think that here respect for everyone’s contribution is still a thing. Therefore, I would like to contribute myself in creating technology to elevate people and build a respectful community. 
